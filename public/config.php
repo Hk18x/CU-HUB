@@ -1,7 +1,7 @@
 <?php
     // Enter your host name, database username, password, and database name.
     // If you have not set database password on localhost then set empty.
-    $con = mysqli_connect("localhost:3307","root","","cuhubuserdata");
+    $con = mysqli_connect("localhost:3306","root","","cuhubuserdata");
     // Check connection
 
 

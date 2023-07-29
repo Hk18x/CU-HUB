@@ -1,7 +1,6 @@
 <?php
 	
 	include("config.php");
-	include("header.php");
 
 	if(!isset($_SESSION['login_sess'])){
 		header('location:discussionHome.php');
