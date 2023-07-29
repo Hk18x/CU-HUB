@@ -1,5 +1,5 @@
 # CU-HUB
-It is a website which i have developed for my college students using PHP and MY SQL
+It is a website which we have developed for my college students using PHP and MY SQL
 
 ![CUHUBSS1](https://github.com/Hk18x/CU-HUB/assets/99315582/f6961d97-c749-4fe3-84f9-611109bcf160)
 
