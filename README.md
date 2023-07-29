@@ -28,9 +28,19 @@ This website will help college students in various ways :
 
 ![Screenshot 2023-07-29 230136](https://github.com/Hk18x/CU-HUB/assets/99315582/6a7e4ce4-51ce-4fa1-ae3b-4c0d82e10d66)
 
+![Screenshot 2023-07-29 230837](https://github.com/Hk18x/CU-HUB/assets/99315582/2a31d763-fe8e-4695-a017-98c76a33f989)
+
+![Screenshot 2023-07-29 230903](https://github.com/Hk18x/CU-HUB/assets/99315582/b9c609a8-28ae-445b-bd2e-1b5ce4e41a82)
+
+
+
+
 9. It has Team option which will help you to create team for college projects, contests and Hackathons
     
 ![Screenshot 2023-07-29 230318](https://github.com/Hk18x/CU-HUB/assets/99315582/58c14754-7b14-4eda-83f6-b67319dd6ac9)
+
+![Screenshot 2023-07-29 230714](https://github.com/Hk18x/CU-HUB/assets/99315582/5b48d764-4fd8-43b7-b953-3087b39c518c)
+
 
    
 
